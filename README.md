@@ -19,6 +19,9 @@
   <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/ft_printfe.png" />
   <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/get_next_linee.png" />
   <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/born2beroote.png" />
+  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/push_swape.png" />
+  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/so_longe.png" />
+  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/minitalke.png" />
 </p>
 <!--
 **Juliettemtte/Juliettemtte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
