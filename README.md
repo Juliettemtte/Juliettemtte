@@ -2,27 +2,22 @@
   <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ0anc1cTE0YnpwNmF4YmJ3YXh2dmo2N2w5MDR1dTFxbHZzdWl1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUdtR10ZsxlFC/200.webp' />
 </p>
 
-## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />
 
-- 🌱 Currently at <a target="_blank" href="https://www.42heilbronn.de/en/">Hive Helsinki</a> 
-- 🎓 Graduate of <a target="_blank" href="https://www.polymtl.ca/en/">Polytechnique Montreal</a> in mechanical engineering
-- 🇫🇷🇺🇸 Contact me with those language 
+I’m Juliette, originally from France. I moved to Canada to study Mechanical Engineering at Polytechnique Montreal, where I graduated in 2023. During my time at Polytechnique, I had the opportunity to work on various group projects, including a multidisciplinary project in my final year. This project, in collaboration with HEC, focused on optimizing a firefighter's combat suit. It was a great experience that allowed me to apply engineering principles while working alongside students from different fields, fostering a deeper understanding of teamwork and innovative problem-solving.
 
-<p>
-<!--  <a target="_blank" href="https://www.linkedin.com/in/juliette-mouette/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    -->
-  <a target="_blank" href="mailto:mouette.juliette@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+In 2024, I moved to Finland to continue my studies at Hive Helsinki, where I’m deepening my programming and problem-solving skills. Hive is known for its collaborative, project-based approach, with a strong focus on peer-to-peer learning. This environment is giving me the chance to not only improve my coding abilities but also develop a new mindset for approaching challenges in tech.
 
-## 🚀 42
-<p align="center">
-  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/libfte.png" />
-  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/ft_printfe.png" />
-  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/get_next_linee.png" />
-  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/born2beroote.png" />
-  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/push_swape.png" />
-  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/so_longe.png" />
-  <img src="https://github.com/Juliettemtte/42-project-badges/blob/a48e677fd4871e6999a9564101dca26091ec18ef/badges/minitalke.png" />
-</p>
+I’m passionate about learning, and I’m excited about the path ahead as I continue to grow in the tech world.
+
+---
+
+### 🇫🇷🇬🇧 Contact me in the following languages
+
+[<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/black/white" alt="LinkedIn" />](https://www.linkedin.com/in/juliettemouette/)
+[<img height="28" width="28" src="https://cdn.simpleicons.org/gmail/black/white" alt="Email" />](mailto:mouette.juliette@gmail.com)
+
+
 <!--
 **Juliettemtte/Juliettemtte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
