@@ -1,34 +1,42 @@
-<p align='center'>
-  <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ0anc1cTE0YnpwNmF4YmJ3YXh2dmo2N2w5MDR1dTFxbHZzdWl1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUdtR10ZsxlFC/200.webp' />
-</p>
+<h6 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kapakana&size=50&pause=500&color=A7CEFB&center=true&vCenter=true&width=435&height=70&lines=Hello+-+I'm+Juliette" alt="Typing SVG" /></a>
+</h6>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />
-
-I’m Juliette, originally from France. I moved to Canada to study Mechanical Engineering at Polytechnique Montreal, where I graduated in 2023. During my time at Polytechnique, I had the opportunity to work on various group projects, including a multidisciplinary project in my final year. This project, in collaboration with HEC, focused on optimizing a firefighter's combat suit. It was a great experience that allowed me to apply engineering principles while working alongside students from different fields, fostering a deeper understanding of teamwork and innovative problem-solving.
-
-In 2024, I moved to Finland to continue my studies at Hive Helsinki, where I’m deepening my programming and problem-solving skills. Hive is known for its collaborative, project-based approach, with a strong focus on peer-to-peer learning. This environment is giving me the chance to not only improve my coding abilities but also develop a new mindset for approaching challenges in tech.
-
-I’m passionate about learning, and I’m excited about the path ahead as I continue to grow in the tech world.
+My background in Mechanical Engineering from Polytechnique Montréal, combined with my current studies in Software Development at Hive Helsinki, has shaped my approach to problem-solving. I love transforming complex challenges into structured and creative solutions.
 
 ---
 
-### 🇫🇷🇬🇧 Contact me in the following languages
+### Education
 
-[<img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/black/white" alt="LinkedIn" />](https://www.linkedin.com/in/juliettemouette/)
-[<img height="28" width="28" src="https://cdn.simpleicons.org/gmail/black/white" alt="Email" />](mailto:mouette.juliette@gmail.com)
+#### Current Studies   
 
+<img align="right" style="position: absolute; z-index: 0;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/HIVE_LOGO_4.jpg" width="15%"/>   
 
-<!--
-**Juliettemtte/Juliettemtte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - *Software developement* at [Hive Helsinki](https://www.hive.fi/en/)   
+  - Languages and techonogies: *C, C++, Shell, Docker, Git, Web development*   
+  - Focus: *Autonomous learning, efficient problem-solving, adapting to unfamiliar challenges, collaborating with peers, giving and receiving feedback, and developing a growth mindset.*   
+  - Education language: *English*   
 
-Here are some ideas to get you started:
+#### Previous Studies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" style="position: absolute; z-index: 0;" src="https://moodle.polymtl.ca/file.php/231/Images_LOGO/polytechnique_gauche_rgb.png" width="15%"/>   
+
+  - B.Eng. in *Mechanical Engineering* at [Polytechnique Montreal](https://www.polymtl.ca/meca/en/)
+  - Core skills: *Mathematics, mechanics, CAD, project management, teamwork*
+  - Education language: *French* 
+
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;See more details on my [LinkedIn profile](https://www.linkedin.com/in/juliettemouette/)
+
+##
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/juliettemouette/">
+        <img alt="Juliette Mouette | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    &nbsp
+    <a href="mailto:mouette.juliette@gmail.com">
+        <img alt="Juliette Mouette | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    </a>
+</div>
+
