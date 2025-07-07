@@ -31,12 +31,24 @@ My background in Mechanical Engineering from Polytechnique Montréal, combined w
 ##
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/juliettemouette/">
-        <img alt="Juliette Mouette | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    &nbsp
-    <a href="mailto:mouette.juliette@gmail.com">
-        <img alt="Juliette Mouette | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-    </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/juliettemouette/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" style="position: relative;" alt="LinkedIn" />
+    </picture>
+  </a>
+  &nbsp;<sup> • </sup>&nbsp;
+  
+  
+  <!-- Email -->
+  <a href="mailto:mouette.juliette@gmail.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/EA4335" />
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email" />
+    </picture>
+  </a>
 </div>
 
