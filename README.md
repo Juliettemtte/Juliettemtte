@@ -26,7 +26,6 @@ My background in Mechanical Engineering from Polytechnique Montréal, combined w
   <img align="right" style="position: absolute; z-index: 0;" src="https://moodle.polymtl.ca/file.php/231/Images_LOGO/polytechnique_gauche_rgb.png" style="position: relative;" width="15%" />
 </picture>
  
-https://polymtl150.ca/sites/default/files/polytechnique_gauche_inverse_rgb.png
   - B.Eng. in *Mechanical Engineering* at [Polytechnique Montreal](https://www.polymtl.ca/meca/en/)
   - Core skills: *Mathematics, mechanics, CAD, project management, teamwork*
   - Education language: *French* 
