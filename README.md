@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kapakana&size=50&pause=500&color=A7CEFB&center=true&vCenter=true&width=435&height=70&lines=Hello+-+I'm+Juliette" alt="Typing SVG" /></a>
 </h6>
 
+[MY PORTFOLIO](https://portfolio-juliette-mouette.vercel.app/)
+
 My background in Mechanical Engineering from Polytechnique Montréal, combined with my current studies in Software Development at Hive Helsinki, has shaped my approach to problem-solving. I love transforming complex challenges into structured and creative solutions.
 
 ---
