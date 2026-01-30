@@ -10,7 +10,7 @@ My background in Mechanical Engineering from Polytechnique Montréal, combined w
 
 ### Education
 
-#### Current Studies   
+#### 2024 - 2025   
 
 <img align="right" style="position: absolute; z-index: 0;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/HIVE_LOGO_4.jpg" width="15%"/>   
 
@@ -19,7 +19,7 @@ My background in Mechanical Engineering from Polytechnique Montréal, combined w
   - Focus: *Autonomous learning, efficient problem-solving, adapting to unfamiliar challenges, collaborating with peers, giving and receiving feedback, and developing a growth mindset.*   
   - Education language: *English*   
 
-#### Previous Studies  
+#### 2018 - 2023  
 
 
 <picture>
